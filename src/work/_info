@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/2021+22/Lab/M4/src/multiplier
+vfir
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1636989913
+!i10b 1
+!s100 9=e2i??N?1[`z=J8WLnV_1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IS[[3:]?8;mj;gj5DlRT5G2
+S1
+Z3 dD:/2021+22/Lab/D1/src
+w1636989559
+8D:\2021+22\Lab\D1\src\fir.sv
+FD:\2021+22\Lab\D1\src\fir.sv
+!i122 87
+L0 3 127
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z6 !s108 1636989913.000000
+!s107 D:\2021+22\Lab\D1\src\fir.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:\2021+22\Lab\D1\src\fir.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vtest_fir
+R0
+R1
+!i10b 1
+!s100 FTTH:Hld1FF52RHa^9X680
+R2
+I92Q6Ue@Gn5BjSTNPA^PBa1
+S1
+R3
+w1636989907
+8D:\2021+22\Lab\D1\src\test_fir.sv
+FD:\2021+22\Lab\D1\src\test_fir.sv
+!i122 88
+L0 1 60
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:\2021+22\Lab\D1\src\test_fir.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:\2021+22\Lab\D1\src\test_fir.sv|
+!i113 1
+R7
+R8

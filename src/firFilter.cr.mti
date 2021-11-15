@@ -1,0 +1,15 @@
+D:/2021+22/Lab/D1/src/test_fir.sv {1 {vlog -work work -sv -stats=none {D:\2021+22\Lab\D1\src\test_fir.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module test_fir
+
+Top level modules:
+	test_fir
+
+} {} {}} D:/2021+22/Lab/D1/src/fir.sv {1 {vlog -work work -sv -stats=none {D:\2021+22\Lab\D1\src\fir.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module fir
+
+Top level modules:
+	fir
+
+} {} {}}
